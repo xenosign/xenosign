@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SPREATICS
+- 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning JS, REACT, NEXTjs
 - 📫 How to reach me: https://blog.naver.com/xenosign
 
